@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: Rice University
-    <!--year: 2012-->
+    year: 2012
   - course: BSc in Mechanical Engineering
     institution: Rice University
     year: 2019
